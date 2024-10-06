@@ -41,7 +41,8 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/MaxMangoy/MaxMangoy/output/snake.svg" alt="Snake animation" />
+<div align="right">
+  <img height="80" src="https://i.pinimg.com/originals/7f/ae/97/7fae97b0d62464f833f75a7cce0a9902.gif"  />
+</div>
 
 ###
