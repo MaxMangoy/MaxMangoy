@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi there 👋</h2>
+<h1 align="left">Hi there 👋</h1>
 <h3 align="left"> I'm Max Mangoy, a student learning how to program. </h3>
 
 ###
